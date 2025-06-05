@@ -85,3 +85,37 @@ Step 10 Passed
 The next portion of the workshop will review how to round numbers to the nearest whole integer.
 
 Start by adding a console.log() that logs the message "The Math.round() method rounds the value to the nearest whole integer." to the console.
+
+Step 11
+In the lecture videos, you learned that the Math.round() method rounds the value to the nearest whole integer.
+
+Here are some examples:
+
+Example Code
+Math.round(6.7); // 7
+Math.round(3.2); // 3
+This differs from the Math.floor() and Math.ceil() methods, which round down and up to the nearest whole integer, respectively.
+
+Create a new variable called numRounded and assign the result of rounding the number 2.7. Then, log the value of numRounded to the console.
+
+Below that, create another new variable called numRounded2 and assign the result of rounding the number 11.2. Then, log the value of numRounded2 to the console.
+
+Step 12
+For the last portion of the workshop, you will review how to get the minimum and maximum values of a set of numbers.
+
+Start by adding a console.log() that logs the message "The Math.max() and Math.min() methods are used to get the maximum and minimum number from a range." to the console.
+
+Step 13
+In the previous lecture videos, you learned how to get the maximum and minimum values from a range of numbers like this:
+
+Example Code
+Math.max(1, 2, 3, 4, 5); // 5
+Math.min(1, 2, 3, 4, 5); // 1
+Create a variable called maxNum and assign it the result of finding the maximum number between the numbers 3, 125, 55, 24. Then, log the value of maxNum to the console.
+
+Below that, create a variable called minNum and assign it the result of finding the minimum number between the numbers 6, 90, 14, 90, 2. Then, log the value of minNum to the console.
+
+Step 14 Passed
+For the last step of the workshop, you will log the message "It was fun learning about the different Math methods with you!" to the console.
+
+And with that last change, you have completed the MathBot workshop!
